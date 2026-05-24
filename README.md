@@ -1,2 +1,2 @@
-# GuessTheNumber.java
-Simple java logic using the concept of the onject oriented programming to plat the game Guess The Number
+# GuessTheNumber
+Simple Python logic using the concept of the onject oriented programming to play the game Guess The Number
