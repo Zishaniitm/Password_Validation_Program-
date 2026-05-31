@@ -1,4 +1,5 @@
 # Python Mini Projects 🐍
+# Password Validation Program Using Python
 
 A collection of beginner Python programs built to practise core concepts — regex, functions, loops, and user input handling.
 
